@@ -1,3 +1,4 @@
 .ipynb_checkpoints
-.matri
+*/.ipynb_checkpoints/*
+matri
 matri.npy
